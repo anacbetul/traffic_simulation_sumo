@@ -41,9 +41,9 @@ SUMO'yu kurmak için aşağıdaki adımları izleyin:
 
 Gerekli Python kütüphanelerini kurmak için aşağıdaki komutu kullanın:
 
-```bash ´´´
+```bash 
 pip install traci 
-
+```
 ## Kullanım
 
 Proje dosyalarını klonlayın ve gerekli kurulumları yaptıktan sonra aşağıdaki adımları izleyerek simülasyonu çalıştırın:
@@ -60,19 +60,19 @@ from sumolib.net import readNet
 from sumolib.output import write
 
 os.system("wget -O map.osm 'https://www.openstreetmap.org/api/0.6/map?bbox=11.54,48.14,11.543,48.145'")
-
+```
 Verilerin SUMO Formatına Dönüştürülmesi:
 
 OpenStreetMap verilerini SUMO formatına dönüştürmek için netconvert aracını kullanın:
 
-bash
+```bash
 
 netconvert --osm-files map.osm -o map.net.xml
-
+```
 tls.add.xml Dosyasının Oluşturulması:
 
 Trafik ışıklarını tanımlamak için tls.add.xml dosyasını oluşturun. Örnek bir tls.add.xml dosyası aşağıdaki gibidir:
-
+```
 xml
 
 <additional>
@@ -87,21 +87,21 @@ xml
     <phase duration="5"  state="rrrrrryyrrrrrryy"/>
   </tlLogic>
 </additional>
-
+```
 Simülasyonun Başlatılması:
 
 Simülasyonu başlatmak için aşağıdaki komutu kullanın:
-
+```
 bash
 
 sumo-gui -c your_simulation.sumocfg
-
+```
 Alternatif olarak, GUI olmadan simülasyonu çalıştırmak isterseniz:
-
+```
 bash
 
     sumo -c your_simulation.sumocfg
-
+```
 Test
 
 Simülasyonun doğru çalıştığından emin olmak için aşağıdaki adımları izleyin:
@@ -110,7 +110,7 @@ Simülasyonun doğru çalıştığından emin olmak için aşağıdaki adımlar�
     Trafik akışını gözlemleyin ve gerekli optimizasyonları yapın.
 
 Katkıda Bulunanlar
-
-    İsim Soyisim - Proje Yöneticisi
-    İsim Soyisim - Geliştirici
-    İsim Soyisim - Veri Analisti
+@anacbetul
+@Furkann_cm
+    Furkan Kazım Çam
+    Betül Anaçoğlu
