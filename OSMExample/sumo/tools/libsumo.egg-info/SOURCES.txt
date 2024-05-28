@@ -1,0 +1,8 @@
+/build/sumo-hPWpKy/sumo-1.20.0/tools/libsumo/__init__.py
+/build/sumo-hPWpKy/sumo-1.20.0/tools/libsumo/_libsumo.so
+/build/sumo-hPWpKy/sumo-1.20.0/tools/libsumo/libsumo.py
+/build/sumo-hPWpKy/sumo-1.20.0/tools/libsumo.egg-info/PKG-INFO
+/build/sumo-hPWpKy/sumo-1.20.0/tools/libsumo.egg-info/SOURCES.txt
+/build/sumo-hPWpKy/sumo-1.20.0/tools/libsumo.egg-info/dependency_links.txt
+/build/sumo-hPWpKy/sumo-1.20.0/tools/libsumo.egg-info/requires.txt
+/build/sumo-hPWpKy/sumo-1.20.0/tools/libsumo.egg-info/top_level.txt

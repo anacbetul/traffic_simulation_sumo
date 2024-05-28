@@ -1,0 +1,8 @@
+/build/sumo-hPWpKy/sumo-1.20.0/tools/libtraci/__init__.py
+/build/sumo-hPWpKy/sumo-1.20.0/tools/libtraci/_libtraci.so
+/build/sumo-hPWpKy/sumo-1.20.0/tools/libtraci/libtraci.py
+/build/sumo-hPWpKy/sumo-1.20.0/tools/libtraci.egg-info/PKG-INFO
+/build/sumo-hPWpKy/sumo-1.20.0/tools/libtraci.egg-info/SOURCES.txt
+/build/sumo-hPWpKy/sumo-1.20.0/tools/libtraci.egg-info/dependency_links.txt
+/build/sumo-hPWpKy/sumo-1.20.0/tools/libtraci.egg-info/requires.txt
+/build/sumo-hPWpKy/sumo-1.20.0/tools/libtraci.egg-info/top_level.txt
