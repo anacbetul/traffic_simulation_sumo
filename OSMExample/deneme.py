@@ -10,3 +10,4 @@ traffic_lights = net.getTrafficLights()
 for tl in traffic_lights:
     print("Traffic light ID:", tl.getID())
 
+#deeneme
