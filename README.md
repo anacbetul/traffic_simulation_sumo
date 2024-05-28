@@ -41,9 +41,9 @@ SUMO'yu kurmak için aşağıdaki adımları izleyin:
 
 Gerekli Python kütüphanelerini kurmak için aşağıdaki komutu kullanın:
 
-```bash
-pip install traci
-´´´
+```bash ´´´
+pip install traci 
+
 ## Kullanım
 
 Proje dosyalarını klonlayın ve gerekli kurulumları yaptıktan sonra aşağıdaki adımları izleyerek simülasyonu çalıştırın:
