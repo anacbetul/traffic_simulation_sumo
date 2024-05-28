@@ -43,7 +43,8 @@ Gerekli Python kütüphanelerini kurmak için aşağıdaki komutu kullanın:
 
 ```bash
 pip install traci
-Kullanım
+´´´
+## Kullanım
 
 Proje dosyalarını klonlayın ve gerekli kurulumları yaptıktan sonra aşağıdaki adımları izleyerek simülasyonu çalıştırın:
 
